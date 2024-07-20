@@ -2,6 +2,7 @@
 
 R in Pharma 2022 CI/CD workshop repository.
 date : july 19 2024
+meenakshi
 Full workshop video available here: https://www.youtube.com/watch?v=OcNzurpCCpY
 
 Presentation video available here: https://www.youtube.com/watch?v=8HPpdv8crHo
